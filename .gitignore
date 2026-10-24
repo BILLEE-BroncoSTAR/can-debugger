@@ -1,1 +1,4 @@
 */.npm_global
+.venv
+**/__pycache__/
+
